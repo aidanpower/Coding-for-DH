@@ -21,7 +21,7 @@ I also installed [Oh My Zsh](https://ohmyz.sh/#install) which took a moment to g
 
 **Git Init**
 
-Last week I started to configure git and github, but stopped after getting an SSH key and randomart key. This time 
+Last week I started to configure git and github, but stopped after getting an SSH key and randomart key. This time I got a personal access token and was able to successfully upload my markdown files and images folder to Github. 
 
 
 
