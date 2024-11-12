@@ -12,16 +12,18 @@ Today I intalled neofetch on my terminal to display the system information. I fo
 The problematic code in question:
 ```
 #colorization mimicking linux
-PS1="%{%F{033}%}%n%{%f%}@%{%F{green}%}%m:%{%F{yellow}%}%~%{$%f%}% "
+#PS1="%{%F{033}%}%n%{%f%}@%{%F{green}%}%m:%{%F{yellow}%}%~%{$%f%}% "
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 ```
 
-I also installed [Oh My Zsh](https://ohmyz.sh/#install) which took a moment to get used to but overall I like the display.
+I also installed [Oh My Zsh](https://ohmyz.sh/#install) which took a moment to get used to but overall I like the display. I will try updating the theme
 
 **Git Init**
 
-Last week I started to configure git and github, but stopped after getting an SSH key and randomart key. This time I got a personal access token and was able to successfully upload my markdown files and images folder to Github. 
+Last week I started to configure git and github, but stopped after getting an SSH key and randomart key through the termminal. This time I got a personal access token through the github website and was able to successfully upload my markdown files and images folder to Github.
+
+## Week 3
 
 
 
