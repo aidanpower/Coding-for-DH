@@ -11,7 +11,10 @@ November 12th, 2024
 ![neofetch example on my machine](images/neofetch-example.png) 
 Today I intalled neofetch on my terminal to display the system information. I followed [this tutorial](https://www.howtogeek.com/use-color-with-macs-terminal-to-add-flair-and-function/) which caused a slight issue mimicking linux so it appeared that I was using zshell with bash notation. After removing the code from the source file, the command line now ends in ```~ %``` again. 
 
-I instead installed [Oh My Zsh](https://ohmyz.sh/#install) which took a moment to get used to, but overall I like the display and will play around with the themes to see which one I prefer.
+I instead installed [Oh My Zsh](https://ohmyz.sh/#install) which took a moment to get used to, but overall I like the display and will play around with the themes to see which one I prefer. I installed the [following plugins](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df) to make things easier:
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- zsh-autocomplete
 
 ## Git Init
 
