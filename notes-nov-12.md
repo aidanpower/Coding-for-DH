@@ -20,7 +20,9 @@ I instead installed [Oh My Zsh](https://ohmyz.sh/#install) which took a moment t
 
 Last week I started to configure git and github, but stopped after getting an SSH key and randomart key through the termminal. This time I got a personal access token through the github website and was able to successfully upload my markdown files and images folder to Github. The problematic code from the colour coding tutorial also caused issues with Github launching my site, so I removed it. 
 
-
-
-
-
+```
+git add -A
+git commit -m "relevant message"
+git push
+```
+Terminal commands for uploading files to github

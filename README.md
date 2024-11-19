@@ -7,3 +7,4 @@ This is a repository for my notes from the Coding for Digital Humanities worksho
 ## Weekly Workshop Notes:
 - [Week 2](notes-nov-12.md)
 - [Week 3](notes-nov-19.md)
+- [Week 4](notes-nov-26.md)
