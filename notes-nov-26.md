@@ -11,7 +11,6 @@ November 26th, 2024
 Alp helped me debug my Visual Studio source control to push directly to github. There was an issue with the main and origin branches not connecting when I tried to push the changes. 
 
 When committing changes from the Visual Studio source control, select the most recent change.
-
 <BR CLEAR="top" />
 
 ## Python I: If Statements
@@ -26,4 +25,5 @@ It's not the most elegant code but it gets the job done. I think the loop could 
 
 ## Python II: Loops
 
-Working through the second ipython/Jupyter notebook loops.
+Loops example I wrote to search the list of little woman quotes for the word "work", print out all of the relevant quotes and print the total number.
+![Little Woman Loop](images/python-loop.png)
