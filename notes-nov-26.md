@@ -5,6 +5,15 @@ November 26th, 2024
 - [Website link](https://dh-coding-docs.netlify.app/)
 - [Home](README.md)
 
+## Visual Studio Code
+
+<img src="images/vs-source-control.png" alt="VS source control" width="200" ALIGN="top"> 
+Alp helped me debug my Visual Studio source control to push directly to github. There was an issue with the main and origin branches not connecting when I tried to push the changes. 
+
+When committing changes from the Visual Studio source control, select the most recent change.
+
+<BR CLEAR="top" />
+
 ## Python I: If Statements
 
 Variable names should be as descriptive and unique as possible to make the code legible. Python is different from other coding languages as the datatype of the variable does not need to be declared, which makes it easier assign variables, but also easier to write over them with the wrong information.
