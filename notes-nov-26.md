@@ -5,14 +5,16 @@ November 26th, 2024
 - [Website link](https://dh-coding-docs.netlify.app/)
 - [Home](README.md)
 
-## Python I
-
-Working through the first ipython/Jupyter notebook.
+## Python I: If Statements
 
 Variable names should be as descriptive and unique as possible to make the code legible. Python is different from other coding languages as the datatype of the variable does not need to be declared, which makes it easier assign variables, but also easier to write over them with the wrong information.
 
 String comparisons function by converting the strings into unicode and then into binary values that are machine readable.
 
-## Python II
+If else statement example I wrote based on the ice cream flow chart from class:
+![Ice cream if statement](images/python-if-statement.png)
+It's not the most elegant code but it gets the job done. I think the loop could be fixed up a bit so I'm not creating a temporary scoop counting variable.
 
-Working through the second ipython/Jupyter notebook.
+## Python II: Loops
+
+Working through the second ipython/Jupyter notebook loops.

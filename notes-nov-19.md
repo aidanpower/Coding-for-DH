@@ -13,7 +13,7 @@ This can be done by a computer at a large scale, which allows for easy textual a
 
 [Nvivo](https://carleton.ca/its/nvivo/) and [Voyant](https://voyant-tools.org/) are examples of tools that help automate this process.
 
-## Python I
+## Python I: Setup
 
 ![Python kernals on my computer](images/python-env.png)
 
