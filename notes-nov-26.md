@@ -10,7 +10,7 @@ November 26th, 2024
 <img src="images/vs-source-control.png" alt="VS source control" width="200" ALIGN="top"> 
 Alp helped me debug my Visual Studio source control to push directly to github. There was an issue with the main and origin branches not connecting when I tried to push the changes. 
 
-When committing changes from the Visual Studio source control, select the most recent change.
+When committing changes from the Visual Studio source control, select the most recent change, sync and then commit.
 <BR CLEAR="top" />
 
 ## Python I: If Statements
