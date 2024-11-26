@@ -9,7 +9,9 @@ November 26th, 2024
 
 Working through the first ipython/Jupyter notebook.
 
-Variable names should be as descriptive and unique as possible to make the code legible. Python is different from other coding languages as the datatype of the variable does not need to be declared, which 
+Variable names should be as descriptive and unique as possible to make the code legible. Python is different from other coding languages as the datatype of the variable does not need to be declared, which makes it easier assign variables, but also easier to write over them with the wrong information.
+
+String comparisons function by 
 
 ## Python II
 
