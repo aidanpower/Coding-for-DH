@@ -50,4 +50,4 @@ The tutorial covers:
 - How to atler the data type of a Pandas Series object to be compatible with other Python funtions. 
 - How to filter out NaN values.
 - How to search a dataframe using ```.loc``` with a comparison operator. 
-- How to save to CSV
+- How to save to CSV.
