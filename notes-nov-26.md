@@ -26,5 +26,5 @@ It's not the most elegant code but it gets the job done. I think the loop could 
 
 ## Python II: Loops
 
-Loops example I wrote to search the list of little woman quotes for the word "work", print out all of the relevant quotes and print the total number.
-![Little Woman Loop](images/python-loop.png)
+Loops example I wrote to search the list of *Little Women* quotes for the word "work", print out all of the relevant quotes and print the total number.
+![Little Women Loop](images/python-loop.png)
