@@ -9,3 +9,4 @@ This is a repository for my notes from the Coding for Digital Humanities worksho
 - [Week 3](notes-nov-19.md)
 - [Week 4](notes-nov-26.md)
 - [Week 5](notes-dec-03.md)
+- [Week 6](notes-dec-10.md)
