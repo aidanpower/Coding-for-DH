@@ -10,3 +10,8 @@ This is a repository for my notes from the Coding for Digital Humanities worksho
 - [Week 4](notes-nov-26.md)
 - [Week 5](notes-dec-03.md)
 - [Week 6](notes-dec-10.md)
+- [Week 7](notes-dec-17.md)
+
+## Code
+- [Workshop Code](coding-for-dh.ipynb)
+- [Literature Review CSV](DH-lit-review.csv)
